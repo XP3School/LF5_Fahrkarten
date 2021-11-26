@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LF5_Fahrkarten:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LF5_Fahrkarten_jar</output-path>
+    <root id="archive" name="LF5_Fahrkarten.jar">
+      <element id="module-output" name="LF5_Fahrkarten" />
+    </root>
+  </artifact>
+</component>
